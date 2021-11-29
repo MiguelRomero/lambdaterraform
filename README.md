@@ -1,0 +1,2 @@
+# lambdaterraform
+Simple lambda config
